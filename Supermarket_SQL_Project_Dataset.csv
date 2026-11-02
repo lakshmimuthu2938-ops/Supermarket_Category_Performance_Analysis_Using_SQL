@@ -1,0 +1,201 @@
+﻿Transaction_ID,Transaction_Date,Product_ID,Product_Name,Category,Store_ID,Store_Name,Region,Quantity_Sold,Unit_Price,Cost_Price,Revenue,Profit
+T0037,2024-01-03,P002,Mineral Water,Beverages,S007,Pune Market,West,13,19.69,8.24,255.97,148.85
+T0139,2024-01-03,P015,Carrot,Fruits & Vegetables,S005,Hyderabad Plaza,South,10,41.78,22.78,417.8,190.0
+T0083,2024-01-07,P024,Body Lotion,Personal Care,S008,Delhi Square,North,12,173.04,111.45,2076.48,739.08
+T0194,2024-01-07,P013,Tomato,Fruits & Vegetables,S006,Mumbai Central,West,6,37.21,20.22,223.26,101.94
+T0177,2024-01-16,P001,Orange Juice,Beverages,S003,Madurai Market,South,12,89.48,51.03,1073.76,461.4
+T0089,2024-01-20,P011,Apple,Fruits & Vegetables,S008,Delhi Square,North,18,105.24,75.29,1894.32,539.1
+T0156,2024-01-23,P023,Toothpaste,Personal Care,S005,Hyderabad Plaza,South,13,67.03,42.46,871.39,319.41
+T0282,2024-01-24,P018,Floor Cleaner,Household,S008,Delhi Square,North,3,139.47,82.45,418.41,171.06
+T0165,2024-01-26,P002,Mineral Water,Beverages,S008,Delhi Square,North,20,21.3,8.08,426.0,264.4
+T0126,2024-01-27,P028,Chocolate,Snacks,S005,Hyderabad Plaza,South,3,53.89,28.58,161.67,75.93
+T0265,2024-01-27,P007,Cheese,Dairy,S008,Delhi Square,North,12,143.08,94.35,1716.96,584.76
+T0101,2024-01-30,P024,Body Lotion,Personal Care,S006,Mumbai Central,West,16,185.61,109.35,2969.76,1220.16
+T0090,2024-02-01,P006,Milk,Dairy,S001,Chennai Central,South,8,31.23,22.12,249.84,72.88
+T0255,2024-02-01,P015,Carrot,Fruits & Vegetables,S003,Madurai Market,South,5,42.41,22.46,212.05,99.75
+T0054,2024-02-12,P009,Butter,Dairy,S003,Madurai Market,South,10,74.81,52.2,748.1,226.1
+T0142,2024-02-14,P017,Dishwash Liquid,Household,S007,Pune Market,West,11,99.45,59.36,1093.95,440.99
+T0167,2024-02-16,P016,Detergent,Household,S003,Madurai Market,South,2,178.12,120.52,356.24,115.2
+T0200,2024-02-16,P024,Body Lotion,Personal Care,S005,Hyderabad Plaza,South,8,175.24,113.56,1401.92,493.44
+T0283,2024-02-19,P007,Cheese,Dairy,S006,Mumbai Central,West,2,138.12,96.31,276.24,83.62
+T0035,2024-02-21,P004,Green Tea,Beverages,S002,Coimbatore Mall,West,18,127.04,75.4,2286.72,929.52
+T0113,2024-02-22,P018,Floor Cleaner,Household,S003,Madurai Market,South,9,139.4,82.25,1254.6,514.35
+T0294,2024-02-22,P025,Toothbrush,Personal Care,S004,Bengaluru City,South,19,42.52,24.17,807.88,348.65
+T0197,2024-02-23,P025,Toothbrush,Personal Care,S002,Coimbatore Mall,West,5,40.76,24.37,203.8,81.95
+T0213,2024-02-28,P019,Tissue Box,Household,S001,Chennai Central,South,12,58.2,29.01,698.4,350.28
+T0039,2024-02-29,P008,Yogurt,Dairy,S004,Bengaluru City,South,19,50.19,28.96,953.61,403.37
+T0297,2024-03-04,P009,Butter,Dairy,S008,Delhi Square,North,5,76.31,50.52,381.55,128.95
+T0239,2024-03-05,P009,Butter,Dairy,S008,Delhi Square,North,4,79.41,50.25,317.64,116.64
+T0028,2024-03-06,P002,Mineral Water,Beverages,S004,Bengaluru City,South,11,19.05,8.08,209.55,120.67
+T0266,2024-03-08,P022,Soap,Personal Care,S002,Coimbatore Mall,West,10,38.07,20.49,380.7,175.8
+T0256,2024-03-09,P016,Detergent,Household,S003,Madurai Market,South,8,189.22,119.16,1513.76,560.48
+T0138,2024-03-12,P017,Dishwash Liquid,Household,S003,Madurai Market,South,9,99.79,60.14,898.11,356.85
+T0029,2024-03-13,P022,Soap,Personal Care,S001,Chennai Central,South,2,37.23,20.83,74.46,32.8
+T0203,2024-03-14,P010,Paneer,Dairy,S006,Mumbai Central,West,13,95.58,59.76,1242.54,465.66
+T0114,2024-03-16,P004,Green Tea,Beverages,S008,Delhi Square,North,19,123.82,69.47,2352.58,1032.65
+T0286,2024-03-16,P008,Yogurt,Dairy,S005,Hyderabad Plaza,South,13,48.75,30.86,633.75,232.57
+T0145,2024-03-17,P009,Butter,Dairy,S003,Madurai Market,South,16,78.87,49.19,1261.92,474.88
+T0271,2024-03-21,P008,Yogurt,Dairy,S005,Hyderabad Plaza,South,9,46.82,31.38,421.38,138.96
+T0274,2024-03-24,P021,Shampoo,Personal Care,S001,Chennai Central,South,2,161.0,97.79,322.0,126.42
+T0232,2024-03-26,P021,Shampoo,Personal Care,S005,Hyderabad Plaza,South,6,147.82,98.94,886.92,293.28
+T0115,2024-03-28,P010,Paneer,Dairy,S005,Hyderabad Plaza,South,8,86.89,63.79,695.12,184.8
+T0131,2024-03-31,P021,Shampoo,Personal Care,S008,Delhi Square,North,11,147.42,92.19,1621.62,607.53
+T0206,2024-03-31,P024,Body Lotion,Personal Care,S006,Mumbai Central,West,14,185.46,109.97,2596.44,1056.86
+T0163,2024-04-02,P029,Nuts Pack,Snacks,S006,Mumbai Central,West,13,90.42,60.5,1175.46,388.96
+T0017,2024-04-03,P010,Paneer,Dairy,S008,Delhi Square,North,2,95.57,60.37,191.14,70.4
+T0187,2024-04-03,P009,Butter,Dairy,S002,Coimbatore Mall,West,3,72.16,48.43,216.48,71.19
+T0219,2024-04-06,P011,Apple,Fruits & Vegetables,S006,Mumbai Central,West,18,114.2,70.96,2055.6,778.32
+T0006,2024-04-09,P001,Orange Juice,Beverages,S007,Pune Market,West,12,90.11,52.75,1081.32,448.32
+T0171,2024-04-11,P017,Dishwash Liquid,Household,S006,Mumbai Central,West,12,96.97,60.78,1163.64,434.28
+T0144,2024-04-12,P011,Apple,Fruits & Vegetables,S008,Delhi Square,North,17,117.52,69.22,1997.84,821.1
+T0009,2024-04-13,P011,Apple,Fruits & Vegetables,S004,Bengaluru City,South,13,108.48,73.24,1410.24,458.12
+T0112,2024-04-15,P027,Biscuits,Snacks,S008,Delhi Square,North,1,25.62,12.03,25.62,13.59
+T0209,2024-04-15,P012,Banana,Fruits & Vegetables,S004,Bengaluru City,South,5,44.25,24.39,221.25,99.3
+T0049,2024-04-19,P008,Yogurt,Dairy,S002,Coimbatore Mall,West,18,46.57,29.56,838.26,306.18
+T0093,2024-04-20,P002,Mineral Water,Beverages,S005,Hyderabad Plaza,South,19,19.07,7.9,362.33,212.23
+T0191,2024-04-20,P029,Nuts Pack,Snacks,S004,Bengaluru City,South,12,100.69,59.58,1208.28,493.32
+T0238,2024-04-23,P007,Cheese,Dairy,S007,Pune Market,West,10,137.33,92.24,1373.3,450.9
+T0259,2024-04-26,P028,Chocolate,Snacks,S004,Bengaluru City,South,1,57.51,28.14,57.51,29.37
+T0205,2024-04-27,P029,Nuts Pack,Snacks,S005,Hyderabad Plaza,South,13,90.51,59.35,1176.63,405.08
+T0062,2024-04-28,P023,Toothpaste,Personal Care,S001,Chennai Central,South,9,66.18,43.96,595.62,199.98
+T0136,2024-04-30,P006,Milk,Dairy,S008,Delhi Square,North,5,32.47,23.56,162.35,44.55
+T0108,2024-05-02,P002,Mineral Water,Beverages,S006,Mumbai Central,West,18,21.47,8.18,386.46,239.22
+T0249,2024-05-07,P028,Chocolate,Snacks,S005,Hyderabad Plaza,South,12,55.37,27.89,664.44,329.76
+T0222,2024-05-10,P024,Body Lotion,Personal Care,S006,Mumbai Central,West,17,168.38,114.28,2862.46,919.7
+T0025,2024-05-11,P016,Detergent,Household,S003,Madurai Market,South,16,193.16,116.98,3090.56,1218.88
+T0287,2024-05-11,P015,Carrot,Fruits & Vegetables,S002,Coimbatore Mall,West,4,40.05,22.69,160.2,69.44
+T0221,2024-05-12,P013,Tomato,Fruits & Vegetables,S007,Pune Market,West,20,36.48,19.35,729.6,342.6
+T0269,2024-05-12,P025,Toothbrush,Personal Care,S003,Madurai Market,South,14,42.65,24.92,597.1,248.22
+T0046,2024-05-15,P010,Paneer,Dairy,S005,Hyderabad Plaza,South,12,95.81,64.43,1149.72,376.56
+T0244,2024-05-16,P026,Potato Chips,Snacks,S006,Mumbai Central,West,2,29.87,15.85,59.74,28.04
+T0224,2024-05-20,P017,Dishwash Liquid,Household,S004,Bengaluru City,South,5,91.2,60.09,456.0,155.55
+T0289,2024-05-20,P001,Orange Juice,Beverages,S001,Chennai Central,South,11,89.63,52.35,985.93,410.08
+T0080,2024-05-21,P013,Tomato,Fruits & Vegetables,S002,Coimbatore Mall,West,5,34.3,20.45,171.5,69.25
+T0015,2024-05-22,P017,Dishwash Liquid,Household,S005,Hyderabad Plaza,South,8,99.45,58.49,795.6,327.68
+T0034,2024-05-23,P007,Cheese,Dairy,S008,Delhi Square,North,14,136.34,95.16,1908.76,576.52
+T0240,2024-05-27,P021,Shampoo,Personal Care,S004,Bengaluru City,South,10,150.87,96.46,1508.7,544.1
+T0288,2024-05-27,P015,Carrot,Fruits & Vegetables,S006,Mumbai Central,West,7,41.13,21.91,287.91,134.54
+T0176,2024-05-28,P021,Shampoo,Personal Care,S005,Hyderabad Plaza,South,5,153.03,98.03,765.15,275.0
+T0295,2024-05-31,P030,Popcorn,Snacks,S007,Pune Market,West,8,38.16,19.86,305.28,146.4
+T0022,2024-06-05,P030,Popcorn,Snacks,S004,Bengaluru City,South,12,41.97,19.16,503.64,273.72
+T0230,2024-06-14,P014,Potato,Fruits & Vegetables,S007,Pune Market,West,7,29.52,14.59,206.64,104.51
+T0226,2024-06-15,P024,Body Lotion,Personal Care,S003,Madurai Market,South,6,185.16,115.29,1110.96,419.22
+T0161,2024-06-17,P015,Carrot,Fruits & Vegetables,S005,Hyderabad Plaza,South,9,42.75,22.99,384.75,177.84
+T0085,2024-06-18,P018,Floor Cleaner,Household,S007,Pune Market,West,15,139.04,85.96,2085.6,796.2
+T0253,2024-06-19,P014,Potato,Fruits & Vegetables,S007,Pune Market,West,15,27.88,14.46,418.2,201.3
+T0092,2024-06-20,P028,Chocolate,Snacks,S006,Mumbai Central,West,20,56.59,28.76,1131.8,556.6
+T0273,2024-06-24,P025,Toothbrush,Personal Care,S003,Madurai Market,South,20,43.83,24.35,876.6,389.6
+T0151,2024-06-28,P022,Soap,Personal Care,S003,Madurai Market,South,3,39.11,19.89,117.33,57.66
+T0075,2024-06-29,P004,Green Tea,Beverages,S004,Bengaluru City,South,17,121.25,72.73,2061.25,824.84
+T0087,2024-07-05,P017,Dishwash Liquid,Household,S008,Delhi Square,North,2,93.46,57.39,186.92,72.14
+T0041,2024-07-09,P006,Milk,Dairy,S002,Coimbatore Mall,West,3,32.88,23.48,98.64,28.2
+T0241,2024-07-10,P010,Paneer,Dairy,S007,Pune Market,West,3,91.62,61.53,274.86,90.27
+T0250,2024-07-10,P019,Tissue Box,Household,S006,Mumbai Central,West,16,57.2,29.79,915.2,438.56
+T0281,2024-07-13,P008,Yogurt,Dairy,S006,Mumbai Central,West,6,48.71,30.19,292.26,111.12
+T0094,2024-07-22,P029,Nuts Pack,Snacks,S007,Pune Market,West,3,97.56,62.09,292.68,106.41
+T0261,2024-07-23,P023,Toothpaste,Personal Care,S008,Delhi Square,North,4,65.8,40.6,263.2,100.8
+T0069,2024-08-03,P003,Coffee,Beverages,S005,Hyderabad Plaza,South,14,168.34,106.53,2356.76,865.34
+T0026,2024-08-04,P025,Toothbrush,Personal Care,S007,Pune Market,West,18,44.02,24.53,792.36,350.82
+T0201,2024-08-04,P002,Mineral Water,Beverages,S005,Hyderabad Plaza,South,5,20.99,7.89,104.95,65.5
+T0105,2024-08-14,P001,Orange Juice,Beverages,S005,Hyderabad Plaza,South,13,88.39,51.35,1149.07,481.52
+T0233,2024-08-15,P009,Butter,Dairy,S002,Coimbatore Mall,West,15,79.88,52.19,1198.2,415.35
+T0072,2024-08-18,P002,Mineral Water,Beverages,S005,Hyderabad Plaza,South,7,19.38,7.71,135.66,81.69
+T0175,2024-08-26,P010,Paneer,Dairy,S004,Bengaluru City,South,11,94.56,63.92,1040.16,337.04
+T0056,2024-08-30,P024,Body Lotion,Personal Care,S003,Madurai Market,South,6,188.46,115.69,1130.76,436.62
+T0024,2024-09-03,P012,Banana,Fruits & Vegetables,S001,Chennai Central,South,19,48.29,24.19,917.51,457.9
+T0279,2024-09-04,P021,Shampoo,Personal Care,S006,Mumbai Central,West,15,144.89,95.04,2173.35,747.75
+T0031,2024-09-05,P025,Toothbrush,Personal Care,S008,Delhi Square,North,16,44.31,23.45,708.96,333.76
+T0276,2024-09-07,P013,Tomato,Fruits & Vegetables,S008,Delhi Square,North,13,34.6,19.33,449.8,198.51
+T0078,2024-09-10,P019,Tissue Box,Household,S005,Hyderabad Plaza,South,9,57.73,30.21,519.57,247.68
+T0043,2024-09-24,P004,Green Tea,Beverages,S006,Mumbai Central,West,7,124.45,71.16,871.15,373.03
+T0260,2024-09-25,P020,Garbage Bags,Household,S002,Coimbatore Mall,West,9,67.7,37.21,609.3,274.41
+T0118,2024-09-27,P002,Mineral Water,Beverages,S004,Bengaluru City,South,3,19.41,7.81,58.23,34.8
+T0178,2024-09-28,P011,Apple,Fruits & Vegetables,S003,Madurai Market,South,2,106.31,71.85,212.62,68.92
+T0111,2024-10-07,P030,Popcorn,Snacks,S003,Madurai Market,South,2,43.07,19.19,86.14,47.76
+T0001,2024-10-08,P026,Potato Chips,Snacks,S001,Chennai Central,South,8,29.37,16.42,234.96,103.6
+T0254,2024-10-08,P015,Carrot,Fruits & Vegetables,S007,Pune Market,West,2,38.39,22.38,76.78,32.02
+T0172,2024-10-09,P011,Apple,Fruits & Vegetables,S007,Pune Market,West,7,118.35,75.27,828.45,301.56
+T0051,2024-10-10,P001,Orange Juice,Beverages,S007,Pune Market,West,2,80.79,53.53,161.58,54.52
+T0109,2024-10-10,P007,Cheese,Dairy,S008,Delhi Square,North,19,150.77,95.69,2864.63,1046.52
+T0005,2024-10-11,P009,Butter,Dairy,S006,Mumbai Central,West,5,73.35,51.44,366.75,109.55
+T0128,2024-10-11,P009,Butter,Dairy,S008,Delhi Square,North,6,80.97,49.96,485.82,186.06
+T0030,2024-10-12,P011,Apple,Fruits & Vegetables,S004,Bengaluru City,South,16,107.56,69.98,1720.96,601.28
+T0100,2024-10-12,P012,Banana,Fruits & Vegetables,S002,Coimbatore Mall,West,15,44.18,25.05,662.7,286.95
+T0170,2024-10-13,P020,Garbage Bags,Household,S007,Pune Market,West,2,67.58,37.22,135.16,60.72
+T0071,2024-10-17,P027,Biscuits,Snacks,S002,Coimbatore Mall,West,17,25.91,12.19,440.47,233.24
+T0248,2024-10-19,P011,Apple,Fruits & Vegetables,S004,Bengaluru City,South,12,116.83,69.43,1401.96,568.8
+T0157,2024-10-20,P026,Potato Chips,Snacks,S008,Delhi Square,North,8,30.87,15.87,246.96,120.0
+T0236,2024-10-20,P007,Cheese,Dairy,S001,Chennai Central,South,16,145.67,92.39,2330.72,852.48
+T0280,2024-10-24,P006,Milk,Dairy,S001,Chennai Central,South,13,33.99,22.95,441.87,143.52
+T0020,2024-10-27,P013,Tomato,Fruits & Vegetables,S002,Coimbatore Mall,West,14,33.97,19.21,475.58,206.64
+T0246,2024-10-27,P004,Green Tea,Beverages,S001,Chennai Central,South,7,114.68,70.41,802.76,309.89
+T0110,2024-10-30,P011,Apple,Fruits & Vegetables,S004,Bengaluru City,South,8,109.66,71.08,877.28,308.64
+T0300,2024-10-31,P023,Toothpaste,Personal Care,S004,Bengaluru City,South,10,70.83,42.93,708.3,279.0
+T0263,2024-11-03,P025,Toothbrush,Personal Care,S005,Hyderabad Plaza,South,6,43.79,25.04,262.74,112.5
+T0270,2024-11-07,P005,Soft Drink,Beverages,S003,Madurai Market,South,6,43.7,26.1,262.2,105.6
+T0123,2024-11-10,P001,Orange Juice,Beverages,S003,Madurai Market,South,20,89.03,52.58,1780.6,729.0
+T0135,2024-11-14,P022,Soap,Personal Care,S003,Madurai Market,South,18,36.17,19.93,651.06,292.32
+T0186,2024-11-16,P019,Tissue Box,Household,S002,Coimbatore Mall,West,14,54.48,29.49,762.72,349.86
+T0204,2024-11-16,P004,Green Tea,Beverages,S002,Coimbatore Mall,West,19,120.7,71.74,2293.3,930.24
+T0298,2024-11-17,P029,Nuts Pack,Snacks,S007,Pune Market,West,6,95.93,60.48,575.58,212.7
+T0235,2024-11-22,P012,Banana,Fruits & Vegetables,S001,Chennai Central,South,4,47.66,25.46,190.64,88.8
+T0252,2024-11-24,P010,Paneer,Dairy,S005,Hyderabad Plaza,South,4,86.44,63.21,345.76,92.92
+T0141,2024-11-25,P024,Body Lotion,Personal Care,S008,Delhi Square,North,7,188.56,109.93,1319.92,550.41
+T0182,2024-11-25,P016,Detergent,Household,S002,Coimbatore Mall,West,20,174.47,116.56,3489.4,1158.2
+T0215,2024-11-25,P004,Green Tea,Beverages,S004,Bengaluru City,South,20,121.42,70.1,2428.4,1026.4
+T0290,2024-12-01,P010,Paneer,Dairy,S003,Madurai Market,South,20,89.23,61.71,1784.6,550.4
+T0146,2024-12-02,P024,Body Lotion,Personal Care,S002,Coimbatore Mall,West,18,174.9,110.71,3148.2,1155.42
+T0057,2024-12-06,P016,Detergent,Household,S003,Madurai Market,South,14,189.77,124.53,2656.78,913.36
+T0220,2024-12-07,P030,Popcorn,Snacks,S003,Madurai Market,South,3,41.03,18.48,123.09,67.65
+T0218,2024-12-12,P014,Potato,Fruits & Vegetables,S007,Pune Market,West,20,26.79,15.25,535.8,230.8
+T0102,2024-12-14,P008,Yogurt,Dairy,S005,Hyderabad Plaza,South,9,51.09,30.69,459.81,183.6
+T0196,2024-12-15,P019,Tissue Box,Household,S008,Delhi Square,North,6,54.9,30.75,329.4,144.9
+T0216,2024-12-17,P004,Green Tea,Beverages,S002,Coimbatore Mall,West,3,121.87,70.24,365.61,154.89
+T0199,2024-12-19,P012,Banana,Fruits & Vegetables,S002,Coimbatore Mall,West,14,43.4,25.53,607.6,250.18
+T0278,2024-12-19,P008,Yogurt,Dairy,S006,Mumbai Central,West,13,46.42,29.8,603.46,216.06
+T0129,2024-12-22,P016,Detergent,Household,S008,Delhi Square,North,14,178.8,122.44,2503.2,789.04
+T0190,2024-12-26,P015,Carrot,Fruits & Vegetables,S005,Hyderabad Plaza,South,4,41.01,21.54,164.04,77.88
+T0189,2024-12-28,P011,Apple,Fruits & Vegetables,S007,Pune Market,West,14,116.91,73.79,1636.74,603.68
+T0010,2024-12-29,P012,Banana,Fruits & Vegetables,S006,Mumbai Central,West,7,46.67,25.58,326.69,147.63
+T0243,2024-12-31,P013,Tomato,Fruits & Vegetables,S001,Chennai Central,South,3,34.82,20.52,104.46,42.9
+T0223,2025-01-06,P023,Toothpaste,Personal Care,S001,Chennai Central,South,10,66.19,41.13,661.9,250.6
+T0065,2025-01-07,P016,Detergent,Household,S004,Bengaluru City,South,14,172.64,122.37,2416.96,703.78
+T0285,2025-01-09,P013,Tomato,Fruits & Vegetables,S007,Pune Market,West,2,35.07,20.23,70.14,29.68
+T0292,2025-01-12,P014,Potato,Fruits & Vegetables,S001,Chennai Central,South,11,29.05,15.72,319.55,146.63
+T0231,2025-01-15,P011,Apple,Fruits & Vegetables,S008,Delhi Square,North,18,117.86,73.73,2121.48,794.34
+T0150,2025-01-18,P003,Coffee,Beverages,S006,Mumbai Central,West,14,155.03,105.82,2170.42,688.94
+T0007,2025-01-22,P004,Green Tea,Beverages,S002,Coimbatore Mall,West,3,122.61,74.49,367.83,144.36
+T0088,2025-01-23,P018,Floor Cleaner,Household,S006,Mumbai Central,West,9,136.21,84.86,1225.89,462.15
+T0183,2025-01-25,P025,Toothbrush,Personal Care,S006,Mumbai Central,West,20,42.8,24.02,856.0,375.6
+T0018,2025-01-29,P009,Butter,Dairy,S002,Coimbatore Mall,West,13,77.06,50.11,1001.78,350.35
+T0064,2025-01-29,P020,Garbage Bags,Household,S002,Coimbatore Mall,West,19,63.36,36.63,1203.84,507.87
+T0168,2025-02-01,P002,Mineral Water,Beverages,S003,Madurai Market,South,15,19.96,8.36,299.4,174.0
+T0082,2025-02-02,P002,Mineral Water,Beverages,S007,Pune Market,West,19,21.46,7.69,407.74,261.63
+T0242,2025-02-03,P025,Toothbrush,Personal Care,S001,Chennai Central,South,16,40.14,23.88,642.24,260.16
+T0207,2025-02-09,P024,Body Lotion,Personal Care,S002,Coimbatore Mall,West,10,183.22,109.75,1832.2,734.7
+T0074,2025-02-13,P029,Nuts Pack,Snacks,S008,Delhi Square,North,8,92.07,61.31,736.56,246.08
+T0013,2025-02-14,P006,Milk,Dairy,S006,Mumbai Central,West,9,30.68,23.97,276.12,60.39
+T0181,2025-02-15,P001,Orange Juice,Beverages,S008,Delhi Square,North,14,88.33,52.21,1236.62,505.68
+T0033,2025-02-16,P026,Potato Chips,Snacks,S001,Chennai Central,South,11,31.62,15.52,347.82,177.1
+T0067,2025-02-16,P014,Potato,Fruits & Vegetables,S006,Mumbai Central,West,10,28.62,14.66,286.2,139.6
+T0119,2025-02-22,P002,Mineral Water,Beverages,S001,Chennai Central,South,15,20.79,8.02,311.85,191.55
+T0267,2025-02-23,P020,Garbage Bags,Household,S007,Pune Market,West,19,62.37,39.81,1185.03,428.64
+T0227,2025-02-24,P009,Butter,Dairy,S001,Chennai Central,South,12,77.84,49.07,934.08,345.24
+T0081,2025-02-28,P027,Biscuits,Snacks,S002,Coimbatore Mall,West,14,24.83,12.02,347.62,179.34
+T0160,2025-03-01,P003,Coffee,Beverages,S006,Mumbai Central,West,6,156.18,108.23,937.08,287.7
+T0277,2025-03-01,P002,Mineral Water,Beverages,S008,Delhi Square,North,16,20.21,7.92,323.36,196.64
+T0097,2025-03-06,P028,Chocolate,Snacks,S001,Chennai Central,South,16,53.0,29.3,848.0,379.2
+T0032,2025-03-09,P004,Green Tea,Beverages,S006,Mumbai Central,West,14,121.29,73.84,1698.06,664.3
+T0251,2025-03-10,P023,Toothpaste,Personal Care,S002,Coimbatore Mall,West,3,68.41,44.08,205.23,72.99
+T0192,2025-03-15,P015,Carrot,Fruits & Vegetables,S004,Bengaluru City,South,18,43.07,22.74,775.26,365.94
+T0202,2025-03-16,P001,Orange Juice,Beverages,S008,Delhi Square,North,6,82.18,52.41,493.08,178.62
+T0148,2025-03-20,P012,Banana,Fruits & Vegetables,S002,Coimbatore Mall,West,4,47.2,25.58,188.8,86.48
+T0098,2025-03-21,P029,Nuts Pack,Snacks,S003,Madurai Market,South,6,99.31,62.81,595.86,219.0
+T0047,2025-03-24,P013,Tomato,Fruits & Vegetables,S003,Madurai Market,South,18,36.45,20.3,656.1,290.7
+T0125,2025-03-24,P025,Toothbrush,Personal Care,S008,Delhi Square,North,3,43.17,24.96,129.51,54.63
+T0134,2025-03-24,P022,Soap,Personal Care,S005,Hyderabad Plaza,South,16,36.7,20.95,587.2,252.0
+T0079,2025-03-26,P027,Biscuits,Snacks,S005,Hyderabad Plaza,South,3,26.07,11.77,78.21,42.9
+T0159,2025-03-27,P026,Potato Chips,Snacks,S005,Hyderabad Plaza,South,2,30.76,16.41,61.52,28.7
+T0296,2025-03-27,P002,Mineral Water,Beverages,S001,Chennai Central,South,11,20.09,7.98,220.99,133.21
+T0052,2025-03-28,P028,Chocolate,Snacks,S003,Madurai Market,South,18,57.3,28.29,1031.4,522.18
+T0070,2025-03-28,P014,Potato,Fruits & Vegetables,S008,Delhi Square,North,7,28.46,15.47,199.22,90.93
